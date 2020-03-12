@@ -1,0 +1,210 @@
+*{
+	box-sizing: border-box;
+}
+
+
+
+.laberints{
+	color: #28B463 ;
+	font-size:30px;
+	font-weight: bold;
+	margin-left: 10px;
+	font-family: 'Rubik';
+
+
+}
+
+.logo{
+	width: 50px;
+	height: 50px;
+	margin-top: 10px;
+}
+.contenedor-nav{
+	display: flex;
+	justify-content: space-between;
+}
+.navegación{
+	
+	display: flex;
+}
+li{
+	margin-right: 50px;
+	font-family: 'Rubik';
+
+
+
+}
+.lista{
+
+	list-style-type: none;
+	display: flex;
+	margin-top: 40px;
+	margin-right: 800px
+	color: solid gray;
+	font-family: 'Rubik';
+}
+h1{
+	
+	font-family: 'Rubik';
+	margin-left: 100px;
+	text-align: center;
+	width: 500px;
+	margin-top: 200px;
+	position: absolute;
+	font-size: 45px;
+	color: white;
+
+
+}
+p{
+	width: 400px;
+	margin-left: 120px;
+	position: absolute;
+	margin-top: 330px;
+	font-family: 'Rubik';
+	color: white;
+}
+.app-store{
+	width: 130px;
+	height: 130px;
+	margin-top: 350px;
+	margin-left: 120px;
+}
+.google-play{
+	width: 130px;
+	height: 130px;
+	margin-top: 350px;
+	margin-left: 25px;
+}
+.contenido{
+	display: flex;
+	background-image: url(fondo.jpg);
+	height: 700px;
+}
+.celular{
+	
+	width: 250px;
+	height: 470px;
+	margin-top: -600px;
+	margin-right: 300px;
+	float: right;
+
+
+}
+
+.imagen{
+	margin-left: 250px;
+	margin-top: 100px;
+}
+.información-mapa{
+	text-align: right;
+	margin-top: -300px;
+	font-size: 30px;
+	font-family: 'Rubik';
+	width: 495px;
+	margin-left: 700px;
+	color: #717D7E ;
+
+}
+h3{
+	font-size: 16px;
+	font-family: 'Rubik';
+
+}
+
+.boton{
+	
+	margin-top: 30px;
+	margin-left: 720px;
+	font-size: 16px;
+	color: #28B463;
+	border-color: #28B463;
+	border-radius:  5px 5px 5px 5px;
+	font-family: 'Rubik';
+	width: 150px;
+	height: 50px;
+
+}
+.mas-funciones{
+	font-family: 'Rubik';
+	margin-top: 180px;
+	font-size: 45px;
+	width: 450px;
+	margin-left: 150px;
+	color: #717D7E;
+}
+h4{
+	font-size: 16px;
+	font-family: 'Rubik';
+	color: #717D7E;
+}
+.funciones{
+	display: flex;
+}
+
+.registro{
+	font-size: 16px;
+	color: #28B463;
+	border-color: #28B463;
+	border-radius:  5px 5px 5px 5px;
+	font-family: 'Rubik';
+	width: 200px;
+	height: 50px;
+}
+.corona{
+	margin-left: 200px;
+	height: 200px;
+	width: 200px;
+	margin-top: 200px;
+}
+.logo-politica{
+	width: 50px;
+	height: 50px;
+	margin-left: 140px;
+	margin-top: 30px;
+}
+footer{
+	background-color: #28B463;
+	height: 200px;
+	margin-top: 60px;}
+
+
+.laberints2{
+	color: white;
+	font-size: 30px;
+	font-family: 'Rubik';
+	margin-left: 20px;
+}
+h5{
+	color: white;
+	margin-left: 130px;
+	font-size: 16px;
+	width: 300px;
+
+}
+.footer-text{
+	color: white;
+	list-style-type: none;
+	display: flex;
+	margin-top: -100px;
+	margin-left: 500px;}
+
+.contenedor-logos{
+	display: flex;
+}
+.logo-facebook{
+	margin-left: 950px;
+	margin-top: -55px;
+}
+.logo-twitter{
+	margin-left: 20px;
+	margin-top: -55px;
+}
+.logo-youtube{
+	margin-left: 20px;
+	margin-top: -55px;
+}
+.logo-instagram{
+	margin-left: 20px;
+	margin-top: -55px;
+}

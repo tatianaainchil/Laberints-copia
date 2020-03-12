@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250">
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="125" cy="125" r="125" fill="#F1F1F1"/>
+        <path fill="#FFF" d="M23 152V74l51 33.427L128 56l51 51.427 50-31.496V152z"/>
+        <g transform="translate(13 14)">
+            <path fill="#FFF" stroke="#000" stroke-width="2" d="M115 25.5l-9.992 5.253 1.908-11.126-8.084-7.88 11.172-1.624L115 0l4.996 10.123 11.172 1.624-8.084 7.88 1.908 11.126z"/>
+            <circle cx="11" cy="43" r="8" fill="#FFF" stroke="#000" stroke-width="2"/>
+            <circle cx="216" cy="43" r="8" fill="#FFF" stroke="#000" stroke-width="2"/>
+            <rect width="223" height="29" x="1" y="140" fill="#FFF" stroke="#000" stroke-width="2" rx="5"/>
+            <path fill="#FFE207" d="M72 138v-35.573L113.5 63v75zM157.5 138v-35.573L116 63v75z" opacity=".2"/>
+            <g stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M10 61l50.095 33.26a1 1 0 0 0 1.076.02l54.3-53.28 49.609 53.246a1 1 0 0 0 1.1.008l49.083-31.807M10 61v78M61 94v26M115 41v98M166 94v26M215 62.93V139"/>
+            </g>
+        </g>
+        <rect width="8" height="45" x="32" y="127" fill="#FFF9CD" rx="4" style="mix-blend-mode:multiply"/>
+        <rect width="8" height="45" x="207" y="127" fill="#FFF9CD" rx="4" style="mix-blend-mode:multiply"/>
+        <path fill="#FFF9CD" d="M13 192h225v2H13z"/>
+    </g>
+</svg>
